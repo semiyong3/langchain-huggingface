@@ -1,8 +1,4 @@
 langchain
-<<<<<<< HEAD
-ipykernel
-python-dotenv
-=======
 python-dotenv
 ipykernel
 langchain-community
@@ -34,4 +30,3 @@ unstructured
 pytube
 numexpr
 huggingface_hub
->>>>>>> bf7d8f4573d615a2426a491139a761aca294c552
