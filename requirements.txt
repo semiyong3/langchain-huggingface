@@ -30,3 +30,10 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+pypdf
+langchain_openai
+chromadb
+OllamaEmbeddings
+langchain_huggingface
+tf-keras
+langchain_chroma
